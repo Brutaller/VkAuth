@@ -1,0 +1,29 @@
+header {
+    background-color: #1b6d85;
+    color: white;
+    height: 50px;
+    width: 100%;
+    padding-top: 15px;
+    position: absolute;
+    top: 0;
+}
+
+header a{
+    color: white;
+}
+
+header .userside {
+    text-align: right;
+}
+
+body{
+    height: 100vh;
+    background: url('https://pp.vk.me/c631624/v631624045/4d56e/pO-tXg2qleA.jpg') no-repeat center center;
+    background-color: rgb(105,166,195);
+    color: white;
+}
+
+.content {
+    margin-top: 60px;
+}
+
